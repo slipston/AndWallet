@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="name_of_item">Name of Item</string>
+    <string name="amount">Amount ($)</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="save">Save</string>
+    <string name="name_error">Please enter a name</string>
+    <string name="value_error">Please enter a value</string>
+    <string name="name_value_error">Please enter a name and value</string>
+    <string name="enter_pin">Enter your 4-digit pin here</string>
+    <string name="incorrect_pin">The PIN is incorrect</string>
+    <string name="andwallet">AndWallet</string>
+    <string name="shows_balance">This view shows your current balance:</string>
+    <string name="income_header">Income ($):</string>
+    <string name="expenses_header">Expenses ($):</string>
+    <string name="balance_header">Balance ($):</string>
+    <string name="zero">0</string>
+    <string name="enter">Enter</string>
+    <string name="delete_all">Delete all</string>
+    <string name="view_summary">View Summary</string>
+</resources>
